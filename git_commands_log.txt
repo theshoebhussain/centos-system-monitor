@@ -1,0 +1,13 @@
+# Command Log: Fixing CentOS Git Configuration
+
+1. Clean existing remote configuration:
+   git remote remove origin
+
+2. Add clean GitHub repository path:
+   git remote add origin https://github.com
+
+3. Authenticate securely using Personal Access Token:
+   git remote set-url origin https://theshoebhussain:[TOKEN_SECRET_REDACTED]@://github.com
+
+4. Push local changes successfully to remote master branch:
+   git push -u origin master --force
