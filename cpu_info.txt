@@ -1,45 +1,13 @@
-=== System Monitoring Metrics ===
-Timestamp: 2026-09-30 02:05:01
+==========================================
+        SYSTEM PERFORMANCE SNAPSHOT       
+==========================================
+Timestamp:   2026-09-30 02:06:01
+CPU Load:    1-min: 0.01, 5-min: 0.02, 15-min: 0.00
+RAM Memory:  Total: 1706MB | Used: 1040MB | Free: 165MB | Usage: 60.96%
+Disk Space:  Total: 22G | Used: 4.8G | Available: 17G | Usage: 22%
+
+--- Core Hardware Info ---
 Architecture:                            x86_64
-CPU op-mode(s):                          32-bit, 64-bit
-Address sizes:                           39 bits physical, 48 bits virtual
-Byte Order:                              Little Endian
 CPU(s):                                  1
-On-line CPU(s) list:                     0
-Vendor ID:                               GenuineIntel
 Model name:                              Intel(R) Core(TM) i7-10750H CPU @ 2.60GHz
-CPU family:                              6
-Model:                                   165
-Thread(s) per core:                      1
-Core(s) per socket:                      1
-Socket(s):                               1
-Stepping:                                2
-BogoMIPS:                                5184.00
-Flags:                                   fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx rdtscp lm constant_tsc rep_good nopl xtopology nonstop_tsc cpuid tsc_known_freq pni pclmulqdq monitor ssse3 fma cx16 pcid sse4_1 sse4_2 x2apic movbe popcnt aes xsave avx f16c rdrand hypervisor lahf_lm abm 3dnowprefetch fsgsbase bmi1 avx2 bmi2 invpcid rdseed adx clflushopt arat md_clear flush_l1d arch_capabilities
-Hypervisor vendor:                       KVM
-Virtualization type:                     full
-L1d cache:                               32 KiB (1 instance)
-L1i cache:                               32 KiB (1 instance)
-L2 cache:                                256 KiB (1 instance)
-L3 cache:                                12 MiB (1 instance)
-NUMA node(s):                            1
 NUMA node0 CPU(s):                       0
-Vulnerability Gather data sampling:      Unknown: Dependent on hypervisor status
-Vulnerability Ghostwrite:                Not affected
-Vulnerability Indirect target selection: Mitigation; Aligned branch/return thunks
-Vulnerability Itlb multihit:             KVM: Mitigation: VMX unsupported
-Vulnerability L1tf:                      Not affected
-Vulnerability Mds:                       Not affected
-Vulnerability Meltdown:                  Not affected
-Vulnerability Mmio stale data:           Mitigation; Clear CPU buffers; SMT Host state unknown
-Vulnerability Old microcode:             Not affected
-Vulnerability Reg file data sampling:    Not affected
-Vulnerability Retbleed:                  Vulnerable
-Vulnerability Spec rstack overflow:      Not affected
-Vulnerability Spec store bypass:         Vulnerable
-Vulnerability Spectre v1:                Mitigation; usercopy/swapgs barriers and __user pointer sanitization
-Vulnerability Spectre v2:                Mitigation; Retpolines; STIBP disabled; RSB filling; PBRSB-eIBRS Not affected; BHI SW loop, KVM SW loop
-Vulnerability Srbds:                     Unknown: Dependent on hypervisor status
-Vulnerability Tsa:                       Not affected
-Vulnerability Tsx async abort:           Not affected
-Vulnerability Vmscape:                   Not affected
