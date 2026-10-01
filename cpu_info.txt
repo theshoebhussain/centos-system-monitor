@@ -1,7 +1,7 @@
 ==========================================
          SYSTEM PERFORMANCE SNAPSHOT       
 ==========================================
-Timestamp:            2026-10-01 15:51:24
+Timestamp:            2026-10-01 15:51:25
 CPU Load Average:     1-min: 0.36, 5-min: 0.33, 15-min: 0.19
 Hardware RAM Memory:  Total: 1706MB | Used: 1115MB | Free: 64MB | Usage: 65.36%
 Root Storage Drive:   Total: 22G | Used: 4.8G | Available: 17G | Usage: 23%
@@ -10,12 +10,12 @@ Root Storage Drive:   Total: 22G | Used: 4.8G | Available: 17G | Usage: 23%
 Active Running Tasks: 0 (Tasks actively waiting for CPU time)
 Blocked Stuck Tasks:  0 (Tasks waiting for storage or network I/O to finish)
 Storage Read Speed:   0 Blocks/sec (Data read from storage drive)
-Storage Write Speed:  60 Blocks/sec (Data written to storage drive)
-System Interrupts:    1170/sec
-Context Switches:     1277/sec (CPU shifting between programs)
-User App CPU Usage:   8% (Used by user apps)
-Kernel System Usage:  10% (Used by core OS kernel functions)
-Idle CPU Idle Time:   82% (Unused capacity)
+Storage Write Speed:  68 Blocks/sec (Data written to storage drive)
+System Interrupts:    1039/sec
+Context Switches:     926/sec (CPU shifting between programs)
+User App CPU Usage:   4% (Used by user apps)
+Kernel System Usage:  7% (Used by core OS kernel functions)
+Idle CPU Idle Time:   89% (Unused capacity)
 CPU Disk Wait Stalls: 0% (Stalled waiting on slow storage I/O)
 
 --- Core Hardware Info ---
