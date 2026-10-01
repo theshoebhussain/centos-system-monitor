@@ -11,10 +11,10 @@ Active Running Tasks: 0 (Tasks actively waiting for CPU time)
 Blocked Stuck Tasks:  0 (Tasks waiting for storage or network I/O to finish)
 Storage Read Speed:   0 Blocks/sec (Data read from storage drive)
 Storage Write Speed:  104 Blocks/sec (Data written to storage drive)
-System Interrupts:    1724/sec
-Context Switches:     1980/sec (CPU shifting between programs)
-User App CPU Usage:   10% (Used by user apps)
-Kernel System Usage:  16% (Used by core OS kernel functions)
+System Interrupts:    1706/sec
+Context Switches:     1919/sec (CPU shifting between programs)
+User App CPU Usage:   11% (Used by user apps)
+Kernel System Usage:  15% (Used by core OS kernel functions)
 Idle CPU Idle Time:   74% (Unused capacity)
 CPU Disk Wait Stalls: 0% (Stalled waiting on slow storage I/O)
 
