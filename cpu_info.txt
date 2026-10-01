@@ -1,9 +1,9 @@
 ==========================================
         SYSTEM PERFORMANCE SNAPSHOT       
 ==========================================
-Timestamp:   2026-10-01 15:09:02
-CPU Load:    1-min: 0.00, 5-min: 0.00, 15-min: 0.00
-RAM Memory:  Total: 1706MB | Used: 759MB | Free: 227MB | Usage: 44.49%
+Timestamp:   2026-10-01 15:10:01
+CPU Load:    1-min: 0.06, 5-min: 0.02, 15-min: 0.00
+RAM Memory:  Total: 1706MB | Used: 755MB | Free: 231MB | Usage: 44.26%
 Disk Space:  Total: 22G | Used: 4.8G | Available: 17G | Usage: 22%
 
 --- Core Hardware Info ---
