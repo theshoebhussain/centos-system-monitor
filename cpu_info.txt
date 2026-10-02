@@ -1,20 +1,20 @@
 ==========================================
          SYSTEM PERFORMANCE SNAPSHOT       
 ==========================================
-Timestamp:            2026-10-02 01:45:12
+Timestamp:            2026-10-02 01:45:13
 CPU Load Average:     1-min: 39.61, 5-min: 46.53, 15-min: 59.67
-Hardware RAM Memory:  Total: 1706MB | Used: 1262MB | Free: 169MB | Usage: 73.97%
+Hardware RAM Memory:  Total: 1706MB | Used: 1259MB | Free: 178MB | Usage: 73.80%
 Root Storage Drive:   Total: 22G | Used: 5.4G | Available: 17G | Usage: 25%
 
 --- Detailed Virtual Memory & Performance Monitor (vmstat) ---
-Active Running Tasks: 53 (Tasks actively waiting for CPU time)
+Active Running Tasks: 37 (Tasks actively waiting for CPU time)
 Blocked Stuck Tasks:  0 (Tasks waiting for storage or network I/O to finish)
 Storage Read Speed:   0 Blocks/sec (Data read from storage drive)
-Storage Write Speed:  9368 Blocks/sec (Data written to storage drive)
-System Interrupts:    1550/sec
-Context Switches:     5513/sec (CPU shifting between programs)
-User App CPU Usage:   48% (Used by user apps)
-Kernel System Usage:  52% (Used by core OS kernel functions)
+Storage Write Speed:  18063 Blocks/sec (Data written to storage drive)
+System Interrupts:    1693/sec
+Context Switches:     5323/sec (CPU shifting between programs)
+User App CPU Usage:   46% (Used by user apps)
+Kernel System Usage:  54% (Used by core OS kernel functions)
 Idle CPU Idle Time:   0% (Unused capacity)
 CPU Disk Wait Stalls: 0% (Stalled waiting on slow storage I/O)
 
