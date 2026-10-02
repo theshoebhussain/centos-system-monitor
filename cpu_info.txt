@@ -3,34 +3,23 @@
 ==========================================
 Timestamp:            2026-10-02 02:00:12
 CPU Load Average:     1-min: 37.87, 5-min: 43.42, 15-min: 50.19
-Hardware RAM Memory:  Total: 1706MB | Used: 1118MB | Free: 420MB | Usage: 65.53%
+Hardware RAM Memory:  Total: 1706MB | Used: 1129MB | Free: 409MB | Usage: 66.18%
 Root Storage Drive:   Total: 22G | Used: 5.4G | Available: 17G | Usage: 25%
 
 --- Detailed Virtual Memory & Performance Monitor (vmstat) ---
-Active Running Tasks: 96 (Tasks actively waiting for CPU time)
+Active Running Tasks: 130 (Tasks actively waiting for CPU time)
 Blocked Stuck Tasks:  0 (Tasks waiting for storage or network I/O to finish)
 Storage Read Speed:   0 Blocks/sec (Data read from storage drive)
-Storage Write Speed:  256 Blocks/sec (Data written to storage drive)
-System Interrupts:    1591/sec
-Context Switches:     5456/sec (CPU shifting between programs)
+Storage Write Speed:  224 Blocks/sec (Data written to storage drive)
+System Interrupts:    1658/sec
+Context Switches:     5504/sec (CPU shifting between programs)
 User App CPU Usage:   48% (Used by user apps)
 Kernel System Usage:  52% (Used by core OS kernel functions)
 Idle CPU Idle Time:   0% (Unused capacity)
 CPU Disk Wait Stalls: 0% (Stalled waiting on slow storage I/O)
 
 --- Core Hardware Info ---
-Root Storage Drive:   Total: 22G | Used: 5.4G | Available: 17G | Usage: 25%
-
---- Detailed Virtual Memory & Performance Monitor (vmstat) ---
-Active Running Tasks: 98 (Tasks actively waiting for CPU time)
-Blocked Stuck Tasks:  0 (Tasks waiting for storage or network I/O to finish)
-Storage Read Speed:   0 Blocks/sec (Data read from storage drive)
-Storage Write Speed:  260 Blocks/sec (Data written to storage drive)
-System Interrupts:    1624/sec
-Context Switches:     5600/sec (CPU shifting between programs)
-User App CPU Usage:   48% (Used by user apps)
-Kernel System Usage:  52% (Used by core OS kernel functions)
-Idle CPU Idle Time:   0% (Unused capacity)
-CPU Disk Wait Stalls: 0% (Stalled waiting on slow storage I/O)
-
---- Core Hardware Info ---
+Architecture:                            x86_64
+CPU(s):                                  1
+Model name:                              Intel(R) Core(TM) i7-10750H CPU @ 2.60GHz
+NUMA node0 CPU(s):                       0
