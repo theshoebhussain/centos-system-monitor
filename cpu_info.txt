@@ -1,1 +1,40 @@
 ==========================================
+         SYSTEM PERFORMANCE SNAPSHOT       
+==========================================
+Timestamp:            2026-10-02 01:09:45
+CPU Load Average:     1-min: 78.16, 5-min: 49.13, 15-min: 41.11
+Hardware RAM Memory:  Total: 1706MB | Used: 1319MB | Free: 226MB | Usage: 77.32%
+Root Storage Drive:   Total: 22G | Used: 5.0G | Available: 17G | Usage: 23%
+
+--- Detailed Virtual Memory & Performance Monitor (vmstat) ---
+Active Running Tasks: 47 (Tasks actively waiting for CPU time)
+Blocked Stuck Tasks:  0 (Tasks waiting for storage or network I/O to finish)
+Storage Read Speed:   0 Blocks/sec (Data read from storage drive)
+Storage Write Speed:  160 Blocks/sec (Data written to storage drive)
+System Interrupts:    1213/sec
+Context Switches:     4452/sec (CPU shifting between programs)
+User App CPU Usage:   41% (Used by user apps)
+Kernel System Usage:  59% (Used by core OS kernel functions)
+Idle CPU Idle Time:   0% (Unused capacity)
+CPU Disk Wait Stalls: 0% (Stalled waiting on slow storage I/O)
+
+--- Core Hardware Info ---
+==========================================
+Timestamp:            2026-10-02 01:09:45
+CPU Load Average:     1-min: 78.16, 5-min: 49.13, 15-min: 41.11
+Hardware RAM Memory:  Total: 1706MB | Used: 1319MB | Free: 226MB | Usage: 77.32%
+Root Storage Drive:   Total: 22G | Used: 5.0G | Available: 17G | Usage: 23%
+
+--- Detailed Virtual Memory & Performance Monitor (vmstat) ---
+Active Running Tasks: 43 (Tasks actively waiting for CPU time)
+Blocked Stuck Tasks:  0 (Tasks waiting for storage or network I/O to finish)
+Storage Read Speed:   0 Blocks/sec (Data read from storage drive)
+Storage Write Speed:  176 Blocks/sec (Data written to storage drive)
+System Interrupts:    1220/sec
+Context Switches:     4465/sec (CPU shifting between programs)
+User App CPU Usage:   41% (Used by user apps)
+Kernel System Usage:  59% (Used by core OS kernel functions)
+Idle CPU Idle Time:   0% (Unused capacity)
+CPU Disk Wait Stalls: 0% (Stalled waiting on slow storage I/O)
+
+--- Core Hardware Info ---
