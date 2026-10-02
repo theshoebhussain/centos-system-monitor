@@ -7,35 +7,23 @@ Hardware RAM Memory:  Total: 1706MB | Used: 1299MB | Free: 210MB | Usage: 76.14%
 Root Storage Drive:   Total: 22G | Used: 4.9G | Available: 17G | Usage: 23%
 
 --- Detailed Virtual Memory & Performance Monitor (vmstat) ---
-Active Running Tasks: 26 (Tasks actively waiting for CPU time)
+Active Running Tasks: 31 (Tasks actively waiting for CPU time)
 Blocked Stuck Tasks:  0 (Tasks waiting for storage or network I/O to finish)
+Architecture:                            x86_64
+CPU(s):                                  1
+Model name:                              Intel(R) Core(TM) i7-10750H CPU @ 2.60GHz
+NUMA node0 CPU(s):                       0
 Storage Read Speed:   0 Blocks/sec (Data read from storage drive)
 Storage Write Speed:  116 Blocks/sec (Data written to storage drive)
-System Interrupts:    1107/sec
-Context Switches:     3468/sec (CPU shifting between programs)
-         SYSTEM PERFORMANCE SNAPSHOT       
-==========================================
-Timestamp:            2026-10-02 00:23:18
-CPU Load Average:     1-min: 28.17, 5-min: 17.90, 15-min: 15.65
-Hardware RAM Memory:  Total: 1706MB | Used: 1299MB | Free: 210MB | Usage: 76.14%
-Root Storage Drive:   Total: 22G | Used: 4.9G | Available: 17G | Usage: 23%
-
---- Detailed Virtual Memory & Performance Monitor (vmstat) ---
-Active Running Tasks: 22 (Tasks actively waiting for CPU time)
-Blocked Stuck Tasks:  0 (Tasks waiting for storage or network I/O to finish)
-Storage Read Speed:   0 Blocks/sec (Data read from storage drive)
-Storage Write Speed:  116 Blocks/sec (Data written to storage drive)
-System Interrupts:    1104/sec
-Context Switches:     3456/sec (CPU shifting between programs)
-User App CPU Usage:   48% (Used by user apps)
-Kernel System Usage:  52% (Used by core OS kernel functions)
+System Interrupts:    1079/sec
+Context Switches:     3481/sec (CPU shifting between programs)
+User App CPU Usage:   47% (Used by user apps)
+Kernel System Usage:  53% (Used by core OS kernel functions)
 Idle CPU Idle Time:   0% (Unused capacity)
 CPU Disk Wait Stalls: 0% (Stalled waiting on slow storage I/O)
 
 --- Core Hardware Info ---
-User App CPU Usage:   48% (Used by user apps)
-Kernel System Usage:  52% (Used by core OS kernel functions)
-Idle CPU Idle Time:   0% (Unused capacity)
-CPU Disk Wait Stalls: 0% (Stalled waiting on slow storage I/O)
-
---- Core Hardware Info ---
+Architecture:                            x86_64
+CPU(s):                                  1
+Model name:                              Intel(R) Core(TM) i7-10750H CPU @ 2.60GHz
+NUMA node0 CPU(s):                       0
