@@ -3,3 +3,7 @@
 ==========================================
 Timestamp:            2026-10-02 00:48:34
 CPU Load Average:     1-min: 9.86, 5-min: 39.84, 15-min: 47.90
+Architecture:                            x86_64
+CPU(s):                                  1
+Model name:                              Intel(R) Core(TM) i7-10750H CPU @ 2.60GHz
+NUMA node0 CPU(s):                       0
