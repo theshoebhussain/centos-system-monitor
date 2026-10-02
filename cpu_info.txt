@@ -3,35 +3,16 @@
 ==========================================
 Timestamp:            2026-10-02 01:51:13
 CPU Load Average:     1-min: 39.97, 5-min: 46.59, 15-min: 55.76
-Hardware RAM Memory:  Total: 1706MB | Used: 1279MB | Free: 216MB | Usage: 74.97%
+Hardware RAM Memory:  Total: 1706MB | Used: 1287MB | Free: 208MB | Usage: 75.44%
 Root Storage Drive:   Total: 22G | Used: 5.4G | Available: 17G | Usage: 25%
 
 --- Detailed Virtual Memory & Performance Monitor (vmstat) ---
-Active Running Tasks: 22 (Tasks actively waiting for CPU time)
+Active Running Tasks: 28 (Tasks actively waiting for CPU time)
 Blocked Stuck Tasks:  0 (Tasks waiting for storage or network I/O to finish)
 Storage Read Speed:   0 Blocks/sec (Data read from storage drive)
-Storage Write Speed:  236 Blocks/sec (Data written to storage drive)
-System Interrupts:    2010/sec
-Context Switches:     6447/sec (CPU shifting between programs)
-User App CPU Usage:   46% (Used by user apps)
-Kernel System Usage:  49% (Used by core OS kernel functions)
-Idle CPU Idle Time:   5% (Unused capacity)
-CPU Disk Wait Stalls: 0% (Stalled waiting on slow storage I/O)
-
---- Core Hardware Info ---
-==========================================
-Timestamp:            2026-10-02 01:51:13
-CPU Load Average:     1-min: 39.97, 5-min: 46.59, 15-min: 55.76
-Hardware RAM Memory:  Total: 1706MB | Used: 1277MB | Free: 218MB | Usage: 74.85%
-Root Storage Drive:   Total: 22G | Used: 5.4G | Available: 17G | Usage: 25%
-
---- Detailed Virtual Memory & Performance Monitor (vmstat) ---
-Active Running Tasks: 21 (Tasks actively waiting for CPU time)
-Blocked Stuck Tasks:  0 (Tasks waiting for storage or network I/O to finish)
-Storage Read Speed:   0 Blocks/sec (Data read from storage drive)
-Storage Write Speed:  236 Blocks/sec (Data written to storage drive)
-System Interrupts:    2014/sec
-Context Switches:     6465/sec (CPU shifting between programs)
+Storage Write Speed:  252 Blocks/sec (Data written to storage drive)
+System Interrupts:    2018/sec
+Context Switches:     6489/sec (CPU shifting between programs)
 User App CPU Usage:   46% (Used by user apps)
 Kernel System Usage:  49% (Used by core OS kernel functions)
 Idle CPU Idle Time:   5% (Unused capacity)
