@@ -2,19 +2,19 @@
          SYSTEM PERFORMANCE SNAPSHOT       
 ==========================================
 Timestamp:            2026-10-02 01:03:44
-CPU Load Average:     1-min: 38.75, 5-min: 34.47, 15-min: 36.65
-Hardware RAM Memory:  Total: 1706MB | Used: 1319MB | Free: 263MB | Usage: 77.32%
+CPU Load Average:     1-min: 45.34, 5-min: 35.91, 15-min: 37.10
+Hardware RAM Memory:  Total: 1706MB | Used: 1331MB | Free: 251MB | Usage: 78.02%
 Root Storage Drive:   Total: 22G | Used: 4.9G | Available: 17G | Usage: 23%
 
 --- Detailed Virtual Memory & Performance Monitor (vmstat) ---
-Active Running Tasks: 99 (Tasks actively waiting for CPU time)
+Active Running Tasks: 77 (Tasks actively waiting for CPU time)
 Blocked Stuck Tasks:  0 (Tasks waiting for storage or network I/O to finish)
 Storage Read Speed:   0 Blocks/sec (Data read from storage drive)
-Storage Write Speed:  272 Blocks/sec (Data written to storage drive)
-System Interrupts:    1473/sec
-Context Switches:     5476/sec (CPU shifting between programs)
-User App CPU Usage:   49% (Used by user apps)
-Kernel System Usage:  51% (Used by core OS kernel functions)
+Storage Write Speed:  312 Blocks/sec (Data written to storage drive)
+System Interrupts:    1567/sec
+Context Switches:     5542/sec (CPU shifting between programs)
+User App CPU Usage:   48% (Used by user apps)
+Kernel System Usage:  52% (Used by core OS kernel functions)
 Idle CPU Idle Time:   0% (Unused capacity)
 CPU Disk Wait Stalls: 0% (Stalled waiting on slow storage I/O)
 
@@ -27,7 +27,20 @@ Architecture:                            x86_64
 CPU(s):                                  1
 Model name:                              Intel(R) Core(TM) i7-10750H CPU @ 2.60GHz
 NUMA node0 CPU(s):                       0
-Architecture:                            x86_64
-CPU(s):                                  1
-Model name:                              Intel(R) Core(TM) i7-10750H CPU @ 2.60GHz
-NUMA node0 CPU(s):                       0
+CPU Load Average:     1-min: 45.34, 5-min: 35.91, 15-min: 37.10
+Hardware RAM Memory:  Total: 1706MB | Used: 1332MB | Free: 251MB | Usage: 78.08%
+Root Storage Drive:   Total: 22G | Used: 4.9G | Available: 17G | Usage: 23%
+
+--- Detailed Virtual Memory & Performance Monitor (vmstat) ---
+Active Running Tasks: 74 (Tasks actively waiting for CPU time)
+Blocked Stuck Tasks:  0 (Tasks waiting for storage or network I/O to finish)
+Storage Read Speed:   0 Blocks/sec (Data read from storage drive)
+Storage Write Speed:  312 Blocks/sec (Data written to storage drive)
+System Interrupts:    1576/sec
+Context Switches:     5586/sec (CPU shifting between programs)
+User App CPU Usage:   48% (Used by user apps)
+Kernel System Usage:  52% (Used by core OS kernel functions)
+Idle CPU Idle Time:   0% (Unused capacity)
+CPU Disk Wait Stalls: 0% (Stalled waiting on slow storage I/O)
+
+--- Core Hardware Info ---
