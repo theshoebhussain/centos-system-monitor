@@ -3,37 +3,36 @@
 ==========================================
 Timestamp:            2026-10-02 02:02:14
 CPU Load Average:     1-min: 49.25, 5-min: 47.57, 15-min: 51.02
-Hardware RAM Memory:  Total: 1706MB | Used: 1341MB | Free: 196MB | Usage: 78.60%
+Hardware RAM Memory:  Total: 1706MB | Used: 1338MB | Free: 199MB | Usage: 78.43%
 Root Storage Drive:   Total: 22G | Used: 5.4G | Available: 17G | Usage: 25%
 
 --- Detailed Virtual Memory & Performance Monitor (vmstat) ---
-Active Running Tasks: 11 (Tasks actively waiting for CPU time)
+Active Running Tasks: 27 (Tasks actively waiting for CPU time)
 Blocked Stuck Tasks:  0 (Tasks waiting for storage or network I/O to finish)
 Storage Read Speed:   0 Blocks/sec (Data read from storage drive)
-Storage Write Speed:  448 Blocks/sec (Data written to storage drive)
-System Interrupts:    1787/sec
-Context Switches:     5680/sec (CPU shifting between programs)
-User App CPU Usage:   27% (Used by user apps)
-Kernel System Usage:  50% (Used by core OS kernel functions)
+Storage Write Speed:  496 Blocks/sec (Data written to storage drive)
+System Interrupts:    1827/sec
+Context Switches:     5559/sec (CPU shifting between programs)
+User App CPU Usage:   30% (Used by user apps)
+Kernel System Usage:  47% (Used by core OS kernel functions)
 Idle CPU Idle Time:   23% (Unused capacity)
 CPU Disk Wait Stalls: 0% (Stalled waiting on slow storage I/O)
 
 --- Core Hardware Info ---
-==========================================
 Timestamp:            2026-10-02 02:02:14
 CPU Load Average:     1-min: 49.25, 5-min: 47.57, 15-min: 51.02
-Hardware RAM Memory:  Total: 1706MB | Used: 1341MB | Free: 196MB | Usage: 78.60%
+Hardware RAM Memory:  Total: 1706MB | Used: 1338MB | Free: 199MB | Usage: 78.43%
 Root Storage Drive:   Total: 22G | Used: 5.4G | Available: 17G | Usage: 25%
 
 --- Detailed Virtual Memory & Performance Monitor (vmstat) ---
-Active Running Tasks: 10 (Tasks actively waiting for CPU time)
+Active Running Tasks: 23 (Tasks actively waiting for CPU time)
 Blocked Stuck Tasks:  0 (Tasks waiting for storage or network I/O to finish)
 Storage Read Speed:   0 Blocks/sec (Data read from storage drive)
-Storage Write Speed:  448 Blocks/sec (Data written to storage drive)
-System Interrupts:    1788/sec
-Context Switches:     5686/sec (CPU shifting between programs)
-User App CPU Usage:   27% (Used by user apps)
-Kernel System Usage:  50% (Used by core OS kernel functions)
+Storage Write Speed:  496 Blocks/sec (Data written to storage drive)
+System Interrupts:    1829/sec
+Context Switches:     5576/sec (CPU shifting between programs)
+User App CPU Usage:   30% (Used by user apps)
+Kernel System Usage:  47% (Used by core OS kernel functions)
 Idle CPU Idle Time:   23% (Unused capacity)
 CPU Disk Wait Stalls: 0% (Stalled waiting on slow storage I/O)
 
@@ -41,7 +40,22 @@ CPU Disk Wait Stalls: 0% (Stalled waiting on slow storage I/O)
 Architecture:                            x86_64
 CPU(s):                                  1
 Model name:                              Intel(R) Core(TM) i7-10750H CPU @ 2.60GHz
-BIOS Model name:                           CPU @ 0.0GHz
+NUMA node0 CPU(s):                       0
+Architecture:                            x86_64
+CPU(s):                                  1
+Model name:                              Intel(R) Core(TM) i7-10750H CPU @ 2.60GHz
+NUMA node0 CPU(s):                       0
+Architecture:                            x86_64
+CPU(s):                                  1
+Model name:                              Intel(R) Core(TM) i7-10750H CPU @ 2.60GHz
+NUMA node0 CPU(s):                       0
+Architecture:                            x86_64
+CPU(s):                                  1
+Model name:                              Intel(R) Core(TM) i7-10750H CPU @ 2.60GHz
+NUMA node0 CPU(s):                       0
+Architecture:                            x86_64
+CPU(s):                                  1
+Model name:                              Intel(R) Core(TM) i7-10750H CPU @ 2.60GHz
 NUMA node0 CPU(s):                       0
 Architecture:                            x86_64
 CPU(s):                                  1
