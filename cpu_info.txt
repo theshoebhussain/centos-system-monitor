@@ -1,63 +1,22 @@
 ==========================================
          SYSTEM PERFORMANCE SNAPSHOT       
-Architecture:                            x86_64
-CPU(s):                                  1
-Model name:                              Intel(R) Core(TM) i7-10750H CPU @ 2.60GHz
-NUMA node0 CPU(s):                       0
 ==========================================
-Timestamp:            2026-10-02 02:27:40
-CPU Load Average:     1-min: 151.02, 5-min: 145.10, 15-min: 115.81
-Hardware RAM Memory:  Total: 1706MB | Used: 1305MB | Free: 217MB | Usage: 76.49%
+Timestamp:            2026-10-02 02:27:50
+CPU Load Average:     1-min: 153.50, 5-min: 145.71, 15-min: 116.17
+Hardware RAM Memory:  Total: 1706MB | Used: 1222MB | Free: 322MB | Usage: 71.63%
 Root Storage Drive:   Total: 22G | Used: 5.4G | Available: 17G | Usage: 25%
 
 --- Detailed Virtual Memory & Performance Monitor (vmstat) ---
-Active Running Tasks: 243 (Tasks actively waiting for CPU time)
+Active Running Tasks: 2 (Tasks actively waiting for CPU time)
 Blocked Stuck Tasks:  0 (Tasks waiting for storage or network I/O to finish)
-Storage Read Speed:   5996 Blocks/sec (Data read from storage drive)
-Storage Write Speed:  22160 Blocks/sec (Data written to storage drive)
-System Interrupts:    2305/sec
-Context Switches:     6017/sec (CPU shifting between programs)
-User App CPU Usage:   33% (Used by user apps)
+Storage Read Speed:   5064 Blocks/sec (Data read from storage drive)
+Storage Write Speed:  4 Blocks/sec (Data written to storage drive)
+System Interrupts:    3025/sec
+Context Switches:     8236/sec (CPU shifting between programs)
+User App CPU Usage:   29% (Used by user apps)
 Kernel System Usage:  67% (Used by core OS kernel functions)
 Idle CPU Idle Time:   0% (Unused capacity)
-CPU Disk Wait Stalls: 0% (Stalled waiting on slow storage I/O)
-
---- Core Hardware Info ---
-         SYSTEM PERFORMANCE SNAPSHOT       
-==========================================
-Timestamp:            2026-10-02 02:27:40
-CPU Load Average:     1-min: 151.02, 5-min: 145.10, 15-min: 115.81
-Hardware RAM Memory:  Total: 1706MB | Used: 1289MB | Free: 234MB | Usage: 75.56%
-Root Storage Drive:   Total: 22G | Used: 5.4G | Available: 17G | Usage: 25%
-
---- Detailed Virtual Memory & Performance Monitor (vmstat) ---
-Active Running Tasks: 225 (Tasks actively waiting for CPU time)
-Blocked Stuck Tasks:  0 (Tasks waiting for storage or network I/O to finish)
-Storage Read Speed:   4788 Blocks/sec (Data read from storage drive)
-Storage Write Speed:  22196 Blocks/sec (Data written to storage drive)
-System Interrupts:    2089/sec
-Context Switches:     5389/sec (CPU shifting between programs)
-User App CPU Usage:   34% (Used by user apps)
-Kernel System Usage:  66% (Used by core OS kernel functions)
-Idle CPU Idle Time:   0% (Unused capacity)
-CPU Disk Wait Stalls: 0% (Stalled waiting on slow storage I/O)
-
---- Core Hardware Info ---
-CPU Load Average:     1-min: 149.98, 5-min: 144.80, 15-min: 115.56
-Hardware RAM Memory:  Total: 1706MB | Used: 1286MB | Free: 237MB | Usage: 75.38%
-Root Storage Drive:   Total: 22G | Used: 5.4G | Available: 17G | Usage: 25%
-
---- Detailed Virtual Memory & Performance Monitor (vmstat) ---
-Active Running Tasks: 251 (Tasks actively waiting for CPU time)
-Blocked Stuck Tasks:  0 (Tasks waiting for storage or network I/O to finish)
-Storage Read Speed:   1112 Blocks/sec (Data read from storage drive)
-Storage Write Speed:  21260 Blocks/sec (Data written to storage drive)
-System Interrupts:    2151/sec
-Context Switches:     5703/sec (CPU shifting between programs)
-User App CPU Usage:   36% (Used by user apps)
-Kernel System Usage:  64% (Used by core OS kernel functions)
-Idle CPU Idle Time:   0% (Unused capacity)
-CPU Disk Wait Stalls: 0% (Stalled waiting on slow storage I/O)
+CPU Disk Wait Stalls: 4% (Stalled waiting on slow storage I/O)
 
 --- Core Hardware Info ---
 Architecture:                            x86_64
