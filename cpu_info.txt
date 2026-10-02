@@ -3,23 +3,23 @@
 ==========================================
 Timestamp:            2026-10-02 01:48:29
 CPU Load Average:     1-min: 44.00, 5-min: 47.39, 15-min: 57.58
-Hardware RAM Memory:  Total: 1706MB | Used: 1261MB | Free: 270MB | Usage: 73.92%
-Root Storage Drive:   Total: 22G | Used: 5.4G | Available: 17G | Usage: 25%
-
---- Detailed Virtual Memory & Performance Monitor (vmstat) ---
-Active Running Tasks: 3 (Tasks actively waiting for CPU time)
-Blocked Stuck Tasks:  0 (Tasks waiting for storage or network I/O to finish)
-Storage Read Speed:   0 Blocks/sec (Data read from storage drive)
-Storage Write Speed:  152 Blocks/sec (Data written to storage drive)
-System Interrupts:    3016/sec
-Context Switches:     3444/sec (CPU shifting between programs)
-User App CPU Usage:   12% (Used by user apps)
-Kernel System Usage:  29% (Used by core OS kernel functions)
-Idle CPU Idle Time:   59% (Unused capacity)
-CPU Disk Wait Stalls: 0% (Stalled waiting on slow storage I/O)
-
---- Core Hardware Info ---
 Architecture:                            x86_64
 CPU(s):                                  1
 Model name:                              Intel(R) Core(TM) i7-10750H CPU @ 2.60GHz
 NUMA node0 CPU(s):                       0
+Hardware RAM Memory:  Total: 1706MB | Used: 1261MB | Free: 270MB | Usage: 73.92%
+Root Storage Drive:   Total: 22G | Used: 5.4G | Available: 17G | Usage: 25%
+
+--- Detailed Virtual Memory & Performance Monitor (vmstat) ---
+Active Running Tasks: 9 (Tasks actively waiting for CPU time)
+Blocked Stuck Tasks:  0 (Tasks waiting for storage or network I/O to finish)
+Storage Read Speed:   0 Blocks/sec (Data read from storage drive)
+Storage Write Speed:  108 Blocks/sec (Data written to storage drive)
+System Interrupts:    2928/sec
+Context Switches:     3446/sec (CPU shifting between programs)
+User App CPU Usage:   13% (Used by user apps)
+Kernel System Usage:  29% (Used by core OS kernel functions)
+Idle CPU Idle Time:   58% (Unused capacity)
+CPU Disk Wait Stalls: 0% (Stalled waiting on slow storage I/O)
+
+--- Core Hardware Info ---
