@@ -1,2 +1,39 @@
 ==========================================
          SYSTEM PERFORMANCE SNAPSHOT       
+==========================================
+Timestamp:            2026-10-02 01:55:19
+CPU Load Average:     1-min: 41.95, 5-min: 43.69, 15-min: 52.39
+Hardware RAM Memory:  Total: 1706MB | Used: 1151MB | Free: 341MB | Usage: 67.47%
+Root Storage Drive:   Total: 22G | Used: 5.4G | Available: 17G | Usage: 25%
+
+--- Detailed Virtual Memory & Performance Monitor (vmstat) ---
+Active Running Tasks: 43 (Tasks actively waiting for CPU time)
+Blocked Stuck Tasks:  0 (Tasks waiting for storage or network I/O to finish)
+Storage Read Speed:   0 Blocks/sec (Data read from storage drive)
+Storage Write Speed:  5487 Blocks/sec (Data written to storage drive)
+System Interrupts:    1505/sec
+Context Switches:     3987/sec (CPU shifting between programs)
+User App CPU Usage:   47% (Used by user apps)
+Kernel System Usage:  36% (Used by core OS kernel functions)
+Idle CPU Idle Time:   17% (Unused capacity)
+CPU Disk Wait Stalls: 0% (Stalled waiting on slow storage I/O)
+
+--- Core Hardware Info ---
+Timestamp:            2026-10-02 01:55:19
+CPU Load Average:     1-min: 41.95, 5-min: 43.69, 15-min: 52.39
+Hardware RAM Memory:  Total: 1706MB | Used: 1151MB | Free: 341MB | Usage: 67.47%
+Root Storage Drive:   Total: 22G | Used: 5.4G | Available: 17G | Usage: 25%
+
+--- Detailed Virtual Memory & Performance Monitor (vmstat) ---
+Active Running Tasks: 47 (Tasks actively waiting for CPU time)
+Blocked Stuck Tasks:  0 (Tasks waiting for storage or network I/O to finish)
+Storage Read Speed:   0 Blocks/sec (Data read from storage drive)
+Storage Write Speed:  5487 Blocks/sec (Data written to storage drive)
+System Interrupts:    1504/sec
+Context Switches:     3990/sec (CPU shifting between programs)
+User App CPU Usage:   47% (Used by user apps)
+Kernel System Usage:  36% (Used by core OS kernel functions)
+Idle CPU Idle Time:   17% (Unused capacity)
+CPU Disk Wait Stalls: 0% (Stalled waiting on slow storage I/O)
+
+--- Core Hardware Info ---
