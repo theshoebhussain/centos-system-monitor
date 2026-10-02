@@ -1,1 +1,44 @@
 ==========================================
+         SYSTEM PERFORMANCE SNAPSHOT       
+==========================================
+Timestamp:            2026-10-02 02:00:31
+CPU Load Average:     1-min: 49.38, 5-min: 45.93, 15-min: 50.88
+Hardware RAM Memory:  Total: 1706MB | Used: 1116MB | Free: 434MB | Usage: 65.42%
+Root Storage Drive:   Total: 22G | Used: 5.4G | Available: 17G | Usage: 25%
+
+--- Detailed Virtual Memory & Performance Monitor (vmstat) ---
+Active Running Tasks: 130 (Tasks actively waiting for CPU time)
+Blocked Stuck Tasks:  0 (Tasks waiting for storage or network I/O to finish)
+Storage Read Speed:   64 Blocks/sec (Data read from storage drive)
+Storage Write Speed:  176 Blocks/sec (Data written to storage drive)
+System Interrupts:    1568/sec
+Context Switches:     5502/sec (CPU shifting between programs)
+User App CPU Usage:   50% (Used by user apps)
+Kernel System Usage:  50% (Used by core OS kernel functions)
+Idle CPU Idle Time:   0% (Unused capacity)
+CPU Disk Wait Stalls: 0% (Stalled waiting on slow storage I/O)
+
+--- Core Hardware Info ---
+==========================================
+Timestamp:            2026-10-02 02:00:31
+CPU Load Average:     1-min: 49.38, 5-min: 45.93, 15-min: 50.88
+Hardware RAM Memory:  Total: 1706MB | Used: 1119MB | Free: 431MB | Usage: 65.59%
+Root Storage Drive:   Total: 22G | Used: 5.4G | Available: 17G | Usage: 25%
+
+--- Detailed Virtual Memory & Performance Monitor (vmstat) ---
+Active Running Tasks: 136 (Tasks actively waiting for CPU time)
+Blocked Stuck Tasks:  0 (Tasks waiting for storage or network I/O to finish)
+Storage Read Speed:   76 Blocks/sec (Data read from storage drive)
+Storage Write Speed:  176 Blocks/sec (Data written to storage drive)
+System Interrupts:    1569/sec
+Context Switches:     5316/sec (CPU shifting between programs)
+User App CPU Usage:   50% (Used by user apps)
+Kernel System Usage:  50% (Used by core OS kernel functions)
+Idle CPU Idle Time:   0% (Unused capacity)
+CPU Disk Wait Stalls: 0% (Stalled waiting on slow storage I/O)
+
+--- Core Hardware Info ---
+Architecture:                            x86_64
+CPU(s):                                  1
+Model name:                              Intel(R) Core(TM) i7-10750H CPU @ 2.60GHz
+NUMA node0 CPU(s):                       0
