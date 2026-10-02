@@ -1,11 +1,1 @@
 ==========================================
-         SYSTEM PERFORMANCE SNAPSHOT       
-==========================================
-Timestamp:            2026-10-02 01:54:25
-CPU Load Average:     1-min: 38.04, 5-min: 43.52, 15-min: 52.82
-Hardware RAM Memory:  Total: 1706MB | Used: 1261MB | Free: 225MB | Usage: 73.92%
-Root Storage Drive:   Total: 22G | Used: 5.4G | Available: 17G | Usage: 25%
-Architecture:                            x86_64
-CPU(s):                                  1
-Model name:                              Intel(R) Core(TM) i7-10750H CPU @ 2.60GHz
-NUMA node0 CPU(s):                       0
