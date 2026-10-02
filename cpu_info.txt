@@ -3,31 +3,19 @@
 ==========================================
 Timestamp:            2026-10-02 01:47:30
 CPU Load Average:     1-min: 56.68, 5-min: 49.63, 15-min: 58.87
-Hardware RAM Memory:  Total: 1706MB | Used: 1083MB | Free: 455MB | Usage: 63.48%
+Hardware RAM Memory:  Total: 1706MB | Used: 1084MB | Free: 454MB | Usage: 63.54%
 Root Storage Drive:   Total: 22G | Used: 5.4G | Available: 17G | Usage: 25%
 
 --- Detailed Virtual Memory & Performance Monitor (vmstat) ---
-Active Running Tasks: 10 (Tasks actively waiting for CPU time)
+Active Running Tasks: 18 (Tasks actively waiting for CPU time)
 Blocked Stuck Tasks:  0 (Tasks waiting for storage or network I/O to finish)
 Storage Read Speed:   0 Blocks/sec (Data read from storage drive)
-Storage Write Speed:  168 Blocks/sec (Data written to storage drive)
-System Interrupts:    1622/sec
-Context Switches:     5834/sec (CPU shifting between programs)
-User App CPU Usage:   42% (Used by user apps)
-Kernel System Usage:  52% (Used by core OS kernel functions)
+Storage Write Speed:  172 Blocks/sec (Data written to storage drive)
+System Interrupts:    1648/sec
+Context Switches:     5829/sec (CPU shifting between programs)
+User App CPU Usage:   41% (Used by user apps)
+Kernel System Usage:  53% (Used by core OS kernel functions)
 Idle CPU Idle Time:   6% (Unused capacity)
 CPU Disk Wait Stalls: 0% (Stalled waiting on slow storage I/O)
 
 --- Core Hardware Info ---
-Architecture:                            x86_64
-CPU(s):                                  1
-Model name:                              Intel(R) Core(TM) i7-10750H CPU @ 2.60GHz
-NUMA node0 CPU(s):                       0
-Architecture:                            x86_64
-CPU(s):                                  1
-Model name:                              Intel(R) Core(TM) i7-10750H CPU @ 2.60GHz
-NUMA node0 CPU(s):                       0
-Architecture:                            x86_64
-CPU(s):                                  1
-Model name:                              Intel(R) Core(TM) i7-10750H CPU @ 2.60GHz
-NUMA node0 CPU(s):                       0
