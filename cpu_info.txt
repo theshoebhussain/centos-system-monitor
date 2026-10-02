@@ -1,5 +1,3 @@
 ==========================================
          SYSTEM PERFORMANCE SNAPSHOT       
-==========================================
-Timestamp:            2026-10-02 00:22:22
-CPU Load Average:     1-min: 24.01, 5-min: 15.73, 15-min: 14.88
+Architecture:                            x8
