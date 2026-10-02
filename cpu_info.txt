@@ -2,31 +2,23 @@
          SYSTEM PERFORMANCE SNAPSHOT       
 ==========================================
 Timestamp:            2026-10-02 00:14:48
-Architecture:                            x86_64
-CPU(s):                                  1
-Model name:                              Intel(R) Core(TM) i7-10750H CPU @ 2.60GHz
-NUMA node0 CPU(s):                       0
 CPU Load Average:     1-min: 4.42, 5-min: 5.66, 15-min: 13.38
-Hardware RAM Memory:  Total: 1706MB | Used: 1385MB | Free: 111MB | Usage: 81.18%
+Hardware RAM Memory:  Total: 1706MB | Used: 1384MB | Free: 111MB | Usage: 81.13%
 Root Storage Drive:   Total: 22G | Used: 4.9G | Available: 17G | Usage: 23%
 
 --- Detailed Virtual Memory & Performance Monitor (vmstat) ---
 Active Running Tasks: 6 (Tasks actively waiting for CPU time)
 Blocked Stuck Tasks:  0 (Tasks waiting for storage or network I/O to finish)
 Storage Read Speed:   0 Blocks/sec (Data read from storage drive)
-Storage Write Speed:  56 Blocks/sec (Data written to storage drive)
-System Interrupts:    2024/sec
-Context Switches:     2334/sec (CPU shifting between programs)
-User App CPU Usage:   5% (Used by user apps)
-Kernel System Usage:  18% (Used by core OS kernel functions)
-Idle CPU Idle Time:   77% (Unused capacity)
+Storage Write Speed:  72 Blocks/sec (Data written to storage drive)
+System Interrupts:    1950/sec
+Context Switches:     2446/sec (CPU shifting between programs)
+User App CPU Usage:   7% (Used by user apps)
+Kernel System Usage:  20% (Used by core OS kernel functions)
+Idle CPU Idle Time:   74% (Unused capacity)
 CPU Disk Wait Stalls: 0% (Stalled waiting on slow storage I/O)
 
 --- Core Hardware Info ---
-Architecture:                            x86_64
-CPU(s):                                  1
-Model name:                              Intel(R) Core(TM) i7-10750H CPU @ 2.60GHz
-NUMA node0 CPU(s):                       0
 Architecture:                            x86_64
 CPU(s):                                  1
 Model name:                              Intel(R) Core(TM) i7-10750H CPU @ 2.60GHz
