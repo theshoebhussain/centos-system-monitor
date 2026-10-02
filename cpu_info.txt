@@ -1,12 +1,5 @@
 ==========================================
          SYSTEM PERFORMANCE SNAPSHOT       
 ==========================================
-Timestamp:            2026-10-02 01:33:06
-Architecture:                            x86_64
-CPU(s):                                  1
-Model name:                              Intel(R) Core(TM) i7-10750H CPU @ 2.60GHz
-NUMA node0 CPU(s):                       0
-Architecture:                            x86_64
-CPU(s):                                  1
-Model name:                              Intel(R) Core(TM) i7-10750H CPU @ 2.60GHz
-NUMA node0 CPU(s):                       0
+Timestamp:            2026-10-02 01:33:12
+CPU Load Average:     1-min: 82.99, 5-min: 88.05, 15-min: 78.93
