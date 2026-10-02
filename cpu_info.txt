@@ -1,20 +1,20 @@
 ==========================================
          SYSTEM PERFORMANCE SNAPSHOT       
 ==========================================
-Timestamp:            2026-10-02 01:29:04
-CPU Load Average:     1-min: 65.04, 5-min: 79.26, 15-min: 73.44
-Hardware RAM Memory:  Total: 1706MB | Used: 1423MB | Free: 101MB | Usage: 83.41%
+Timestamp:            2026-10-02 01:29:06
+CPU Load Average:     1-min: 65.52, 5-min: 79.12, 15-min: 73.43
+Hardware RAM Memory:  Total: 1706MB | Used: 1270MB | Free: 255MB | Usage: 74.44%
 Root Storage Drive:   Total: 22G | Used: 5.0G | Available: 17G | Usage: 23%
 
 --- Detailed Virtual Memory & Performance Monitor (vmstat) ---
-Active Running Tasks: 30 (Tasks actively waiting for CPU time)
+Active Running Tasks: 42 (Tasks actively waiting for CPU time)
 Blocked Stuck Tasks:  0 (Tasks waiting for storage or network I/O to finish)
-Storage Read Speed:   4 Blocks/sec (Data read from storage drive)
-Storage Write Speed:  5020 Blocks/sec (Data written to storage drive)
-System Interrupts:    1403/sec
-Context Switches:     5993/sec (CPU shifting between programs)
-User App CPU Usage:   51% (Used by user apps)
-Kernel System Usage:  49% (Used by core OS kernel functions)
+Storage Read Speed:   0 Blocks/sec (Data read from storage drive)
+Storage Write Speed:  5136 Blocks/sec (Data written to storage drive)
+System Interrupts:    1769/sec
+Context Switches:     4517/sec (CPU shifting between programs)
+User App CPU Usage:   59% (Used by user apps)
+Kernel System Usage:  41% (Used by core OS kernel functions)
 Idle CPU Idle Time:   0% (Unused capacity)
 CPU Disk Wait Stalls: 0% (Stalled waiting on slow storage I/O)
 
@@ -22,4 +22,8 @@ CPU Disk Wait Stalls: 0% (Stalled waiting on slow storage I/O)
 Architecture:                            x86_64
 CPU(s):                                  1
 Model name:                              Intel(R) Core(TM) i7-10750H CPU @ 2.60GHz
-NUMA node0 CPU(s):                       
+NUMA node0 CPU(s):                       0
+Architecture:                            x86_64
+CPU(s):                                  1
+Model name:                              Intel(R) Core(TM) i7-10750H CPU @ 2.60GHz
+NUMA node0 CPU(s):                       0
