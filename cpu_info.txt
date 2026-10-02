@@ -1,0 +1,12 @@
+==========================================
+         SYSTEM PERFORMANCE SNAPSHOT       
+==========================================
+Timestamp:            2026-10-02 01:10:16
+CPU Load Average:     1-min: 77.75, 5-min: 51.95, 15-min: 42.31
+Architecture:                            x86_64
+CPU(s):                                  1
+Model name:                              Intel(R) Core(TM) i7-10750H CPU @ 2.60GHz
+NUMA node0 CPU(s):                       0
+Storage Write Speed:  148 Blocks/sec (Data written to storage drive)
+System Interrupts:    1225/sec
+Context Switches:     3962/sec (CPU shifting between programs)
