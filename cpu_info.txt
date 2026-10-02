@@ -3,3 +3,5 @@
 ==========================================
 Timestamp:            2026-10-02 00:49:13
 CPU Load Average:     1-min: 11.96, 5-min: 37.08, 15-min: 46.68
+Hardware RAM Memory:  Total: 1706MB | Used: 1286MB | Free: 268MB | Usage: 75.38%
+Root Storage Drive:   Total: 22G | Used: 4.9G | Available: 17G | Usage: 23%
