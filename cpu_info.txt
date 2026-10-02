@@ -1,35 +1,21 @@
 ==========================================
          SYSTEM PERFORMANCE SNAPSHOT       
 ==========================================
-Timestamp:            2026-10-02 01:43:26
+Timestamp:            2026-10-02 01:43:28
 CPU Load Average:     1-min: 36.00, 5-min: 48.18, 15-min: 61.70
-Hardware RAM Memory:  Total: 1706MB | Used: 1270MB | Free: 91MB | Usage: 74.44%
+Hardware RAM Memory:  Total: 1706MB | Used: 1276MB | Free: 91MB | Usage: 74.79%
 Root Storage Drive:   Total: 22G | Used: 5.4G | Available: 17G | Usage: 25%
 
 --- Detailed Virtual Memory & Performance Monitor (vmstat) ---
-Active Running Tasks: 66 (Tasks actively waiting for CPU time)
+Active Running Tasks: 0 (Tasks actively waiting for CPU time)
 Blocked Stuck Tasks:  0 (Tasks waiting for storage or network I/O to finish)
 Storage Read Speed:   0 Blocks/sec (Data read from storage drive)
-Storage Write Speed:  244 Blocks/sec (Data written to storage drive)
-System Interrupts:    1695/sec
-Context Switches:     5598/sec (CPU shifting between programs)
-User App CPU Usage:   49% (Used by user apps)
-Kernel System Usage:  51% (Used by core OS kernel functions)
-Idle CPU Idle Time:   0% (Unused capacity)
-CPU Disk Wait Stalls: 0% (Stalled waiting on slow storage I/O)
-
---- Core Hardware Info ---
-
---- Detailed Virtual Memory & Performance Monitor (vmstat) ---
-Active Running Tasks: 73 (Tasks actively waiting for CPU time)
-Blocked Stuck Tasks:  0 (Tasks waiting for storage or network I/O to finish)
-Storage Read Speed:   0 Blocks/sec (Data read from storage drive)
-Storage Write Speed:  244 Blocks/sec (Data written to storage drive)
-System Interrupts:    1709/sec
-Context Switches:     5681/sec (CPU shifting between programs)
+Storage Write Speed:  12762 Blocks/sec (Data written to storage drive)
+System Interrupts:    2482/sec
+Context Switches:     4719/sec (CPU shifting between programs)
 User App CPU Usage:   48% (Used by user apps)
-Kernel System Usage:  52% (Used by core OS kernel functions)
-Idle CPU Idle Time:   0% (Unused capacity)
+Kernel System Usage:  34% (Used by core OS kernel functions)
+Idle CPU Idle Time:   18% (Unused capacity)
 CPU Disk Wait Stalls: 0% (Stalled waiting on slow storage I/O)
 
 --- Core Hardware Info ---
