@@ -3,18 +3,34 @@
 ==========================================
 Timestamp:            2026-10-02 01:48:46
 CPU Load Average:     1-min: 43.54, 5-min: 47.07, 15-min: 57.26
-Hardware RAM Memory:  Total: 1706MB | Used: 1247MB | Free: 281MB | Usage: 73.09%
+Hardware RAM Memory:  Total: 1706MB | Used: 1266MB | Free: 263MB | Usage: 74.21%
+Root Storage Drive:   Total: 22G | Used: 5.4G | Available: 17G | Usage: 25%
+
+--- Detailed Virtual Memory & Performance Monitor (vmstat) ---
+Active Running Tasks: 8 (Tasks actively waiting for CPU time)
+Blocked Stuck Tasks:  0 (Tasks waiting for storage or network I/O to finish)
+Storage Read Speed:   0 Blocks/sec (Data read from storage drive)
+Storage Write Speed:  212 Blocks/sec (Data written to storage drive)
+System Interrupts:    2412/sec
+Context Switches:     4542/sec (CPU shifting between programs)
+User App CPU Usage:   43% (Used by user apps)
+Kernel System Usage:  34% (Used by core OS kernel functions)
+Idle CPU Idle Time:   23% (Unused capacity)
+CPU Disk Wait Stalls: 0% (Stalled waiting on slow storage I/O)
+
+--- Core Hardware Info ---
+Hardware RAM Memory:  Total: 1706MB | Used: 1240MB | Free: 289MB | Usage: 72.68%
 Root Storage Drive:   Total: 22G | Used: 5.4G | Available: 17G | Usage: 25%
 
 --- Detailed Virtual Memory & Performance Monitor (vmstat) ---
 Active Running Tasks: 9 (Tasks actively waiting for CPU time)
 Blocked Stuck Tasks:  0 (Tasks waiting for storage or network I/O to finish)
 Storage Read Speed:   0 Blocks/sec (Data read from storage drive)
-Storage Write Speed:  240 Blocks/sec (Data written to storage drive)
-System Interrupts:    2402/sec
-Context Switches:     4572/sec (CPU shifting between programs)
-User App CPU Usage:   42% (Used by user apps)
-Kernel System Usage:  35% (Used by core OS kernel functions)
+Storage Write Speed:  212 Blocks/sec (Data written to storage drive)
+System Interrupts:    2413/sec
+Context Switches:     4551/sec (CPU shifting between programs)
+User App CPU Usage:   43% (Used by user apps)
+Kernel System Usage:  34% (Used by core OS kernel functions)
 Idle CPU Idle Time:   23% (Unused capacity)
 CPU Disk Wait Stalls: 0% (Stalled waiting on slow storage I/O)
 
