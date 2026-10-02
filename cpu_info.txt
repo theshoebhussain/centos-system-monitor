@@ -9,20 +9,16 @@ Root Storage Drive:   Total: 22G | Used: 5.4G | Available: 17G | Usage: 25%
 --- Detailed Virtual Memory & Performance Monitor (vmstat) ---
 Active Running Tasks: 47 (Tasks actively waiting for CPU time)
 Blocked Stuck Tasks:  0 (Tasks waiting for storage or network I/O to finish)
-Storage Read Speed:   164 Blocks/sec (Data read from storage drive)
-Storage Write Speed:  987 Blocks/sec (Data written to storage drive)
-System Interrupts:    1337/sec
-Context Switches:     3172/sec (CPU shifting between programs)
-User App CPU Usage:   17% (Used by user apps)
-Kernel System Usage:  22% (Used by core OS kernel functions)
-Idle CPU Idle Time:   61% (Unused capacity)
+Storage Read Speed:   308 Blocks/sec (Data read from storage drive)
+Storage Write Speed:  991 Blocks/sec (Data written to storage drive)
+System Interrupts:    1377/sec
+Context Switches:     3668/sec (CPU shifting between programs)
+User App CPU Usage:   20% (Used by user apps)
+Kernel System Usage:  26% (Used by core OS kernel functions)
+Idle CPU Idle Time:   54% (Unused capacity)
 CPU Disk Wait Stalls: 0% (Stalled waiting on slow storage I/O)
 
 --- Core Hardware Info ---
-Architecture:                            x86_64
-CPU(s):                                  1
-Model name:                              Intel(R) Core(TM) i7-10750H CPU @ 2.60GHz
-NUMA node0 CPU(s):                       0
 Architecture:                            x86_64
 CPU(s):                                  1
 Model name:                              Intel(R) Core(TM) i7-10750H CPU @ 2.60GHz
