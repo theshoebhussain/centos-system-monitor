@@ -1,7 +1,1 @@
 ==========================================
-         SYSTEM PERFORMANCE SNAPSHOT       
-==========================================
-Timestamp:            2026-10-02 01:46:43
-CPU Load Average:     1-min: 41.15, 5-min: 45.42, 15-min: 58.07
-Hardware RAM Memory:  Total: 1706MB | Used: 1197MB | Free: 345MB | Usage: 70.16%
-Root Storage Drive:   Total: 22G | Used: 5.4G | Available: 17G | Usage: 25%
