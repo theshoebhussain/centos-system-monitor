@@ -10,9 +10,9 @@ Root Storage Drive:   Total: 22G | Used: 4.9G | Available: 17G | Usage: 23%
 Active Running Tasks: 0 (Tasks actively waiting for CPU time)
 Blocked Stuck Tasks:  0 (Tasks waiting for storage or network I/O to finish)
 Storage Read Speed:   0 Blocks/sec (Data read from storage drive)
-Storage Write Speed:  224 Blocks/sec (Data written to storage drive)
-System Interrupts:    3251/sec
-Context Switches:     3944/sec (CPU shifting between programs)
+Storage Write Speed:  140 Blocks/sec (Data written to storage drive)
+System Interrupts:    3297/sec
+Context Switches:     3967/sec (CPU shifting between programs)
 User App CPU Usage:   20% (Used by user apps)
 Kernel System Usage:  24% (Used by core OS kernel functions)
 Idle CPU Idle Time:   56% (Unused capacity)
