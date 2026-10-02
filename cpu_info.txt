@@ -1,3 +1,43 @@
 ==========================================
          SYSTEM PERFORMANCE SNAPSHOT       
 ==========================================
+Timestamp:            2026-10-02 01:38:25
+CPU Load Average:     1-min: 30.84, 5-min: 54.83, 15-min: 67.47
+Hardware RAM Memory:  Total: 1706MB | Used: 1431MB | Free: 98MB | Usage: 83.88%
+Root Storage Drive:   Total: 22G | Used: 5.5G | Available: 17G | Usage: 26%
+
+--- Detailed Virtual Memory & Performance Monitor (vmstat) ---
+Active Running Tasks: 64 (Tasks actively waiting for CPU time)
+Blocked Stuck Tasks:  0 (Tasks waiting for storage or network I/O to finish)
+Storage Read Speed:   140 Blocks/sec (Data read from storage drive)
+Storage Write Speed:  9876 Blocks/sec (Data written to storage drive)
+System Interrupts:    1471/sec
+Context Switches:     5579/sec (CPU shifting between programs)
+User App CPU Usage:   62% (Used by user apps)
+Kernel System Usage:  38% (Used by core OS kernel functions)
+Idle CPU Idle Time:   0% (Unused capacity)
+CPU Disk Wait Stalls: 0% (Stalled waiting on slow storage I/O)
+
+--- Core Hardware Info ---
+Timestamp:            2026-10-02 01:38:25
+CPU Load Average:     1-min: 30.84, 5-min: 54.83, 15-min: 67.47
+Hardware RAM Memory:  Total: 1706MB | Used: 1432MB | Free: 98MB | Usage: 83.94%
+Root Storage Drive:   Total: 22G | Used: 5.5G | Available: 17G | Usage: 26%
+
+--- Detailed Virtual Memory & Performance Monitor (vmstat) ---
+Active Running Tasks: 60 (Tasks actively waiting for CPU time)
+Blocked Stuck Tasks:  0 (Tasks waiting for storage or network I/O to finish)
+Storage Read Speed:   132 Blocks/sec (Data read from storage drive)
+Storage Write Speed:  9876 Blocks/sec (Data written to storage drive)
+System Interrupts:    1478/sec
+Context Switches:     5584/sec (CPU shifting between programs)
+User App CPU Usage:   62% (Used by user apps)
+Kernel System Usage:  38% (Used by core OS kernel functions)
+Idle CPU Idle Time:   0% (Unused capacity)
+CPU Disk Wait Stalls: 0% (Stalled waiting on slow storage I/O)
+
+--- Core Hardware Info ---
+Architecture:                            x86_64
+CPU(s):                                  1
+Model name:                              Intel(R) Core(TM) i7-10750H CPU @ 2.60GHz
+NUMA node0 CPU(s):                       0
