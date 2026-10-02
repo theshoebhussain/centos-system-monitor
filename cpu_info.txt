@@ -1,29 +1,21 @@
 ==========================================
          SYSTEM PERFORMANCE SNAPSHOT       
 ==========================================
-Timestamp:            2026-10-02 01:41:35
+Timestamp:            2026-10-02 01:41:38
 CPU Load Average:     1-min: 43.82, 5-min: 53.50, 15-min: 64.87
-Architecture:                            x86_64
-CPU(s):                                  1
-Model name:                              Intel(R) Core(TM) i7-10750H CPU @ 2.60GHz
-NUMA node0 CPU(s):                       0
-Hardware RAM Memory:  Total: 1706MB | Used: 1207MB | Free: 162MB | Usage: 70.75%
+Hardware RAM Memory:  Total: 1706MB | Used: 1256MB | Free: 124MB | Usage: 73.62%
 Root Storage Drive:   Total: 22G | Used: 5.4G | Available: 17G | Usage: 25%
 
 --- Detailed Virtual Memory & Performance Monitor (vmstat) ---
-Active Running Tasks: 116 (Tasks actively waiting for CPU time)
+Active Running Tasks: 56 (Tasks actively waiting for CPU time)
 Blocked Stuck Tasks:  0 (Tasks waiting for storage or network I/O to finish)
-Storage Read Speed:   48 Blocks/sec (Data read from storage drive)
-Storage Write Speed:  116 Blocks/sec (Data written to storage drive)
-System Interrupts:    1468/sec
-Context Switches:     5700/sec (CPU shifting between programs)
-User App CPU Usage:   48% (Used by user apps)
-Kernel System Usage:  52% (Used by core OS kernel functions)
+Storage Read Speed:   8 Blocks/sec (Data read from storage drive)
+Storage Write Speed:  9216 Blocks/sec (Data written to storage drive)
+System Interrupts:    1696/sec
+Context Switches:     4942/sec (CPU shifting between programs)
+User App CPU Usage:   58% (Used by user apps)
+Kernel System Usage:  42% (Used by core OS kernel functions)
 Idle CPU Idle Time:   0% (Unused capacity)
 CPU Disk Wait Stalls: 0% (Stalled waiting on slow storage I/O)
 
 --- Core Hardware Info ---
-Architecture:                            x86_64
-CPU(s):                                  1
-Model name:                              Intel(R) Core(TM) i7-10750H CPU @ 2.60GHz
-NUMA node0 CPU(s):                       0
