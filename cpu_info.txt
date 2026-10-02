@@ -7,14 +7,14 @@ Hardware RAM Memory:  Total: 1706MB | Used: 1346MB | Free: 160MB | Usage: 78.90%
 Root Storage Drive:   Total: 22G | Used: 4.9G | Available: 17G | Usage: 23%
 
 --- Detailed Virtual Memory & Performance Monitor (vmstat) ---
-Active Running Tasks: 8 (Tasks actively waiting for CPU time)
+Active Running Tasks: 15 (Tasks actively waiting for CPU time)
 Blocked Stuck Tasks:  0 (Tasks waiting for storage or network I/O to finish)
-Storage Read Speed:   152 Blocks/sec (Data read from storage drive)
+Storage Read Speed:   184 Blocks/sec (Data read from storage drive)
 Storage Write Speed:  68 Blocks/sec (Data written to storage drive)
-System Interrupts:    1283/sec
-Context Switches:     4523/sec (CPU shifting between programs)
-User App CPU Usage:   46% (Used by user apps)
-Kernel System Usage:  54% (Used by core OS kernel functions)
+System Interrupts:    1298/sec
+Context Switches:     4528/sec (CPU shifting between programs)
+User App CPU Usage:   45% (Used by user apps)
+Kernel System Usage:  55% (Used by core OS kernel functions)
 Idle CPU Idle Time:   0% (Unused capacity)
 CPU Disk Wait Stalls: 0% (Stalled waiting on slow storage I/O)
 
