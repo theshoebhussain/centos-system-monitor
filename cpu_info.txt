@@ -1,5 +1,6 @@
 ==========================================
          SYSTEM PERFORMANCE SNAPSHOT       
 ==========================================
-Timestamp:            2026-10-02 02:25:39
-CPU Load Average:     1-min: 150.80, 5-min: 142.78, 15-min: 110.98
+Timestamp:            2026-10-02 02:25:45
+
+--- Core Hardware Info ---
